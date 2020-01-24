@@ -1,2 +1,2 @@
 # Bootstrap4FirstTry
-##Simple slider with deafult Bootstrap4 header
+## Simple slider with deafult Bootstrap4 header
